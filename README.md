@@ -1,4 +1,4 @@
-# Resume Points
+# Project titles
 ## Original title
 **1. Improved machining efficiency by identifying and eliminating non-machinable regions with the help of K-means clustering**  
 
