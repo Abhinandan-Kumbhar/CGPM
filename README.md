@@ -1,2 +1,2 @@
-# Example site
-We are learning markdown
+# Resume Points
+## 2 page core 
